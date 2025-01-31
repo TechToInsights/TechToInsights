@@ -2,7 +2,7 @@
   
 We will be back online shortly. Thank you for your patience!
 
-![Under Maintenance GIF](https://media.giphy.com/media/26tP7yJxwD8Xjyg9C/giphy.gif)
+![Under Maintenance GIF](https://github.com/TechToInsights/TechToInsights/blob/main/360_F_444754442_lbDJCXoY7ovdSQatibGicJC8OlmUOep5.jpg)
 
 _Stay tuned!_
 
