@@ -1,10 +1,17 @@
-# Under Maintenance 🚧
-  
-We will be back online shortly. Thank you for your patience!
+# 🚧 **Under Maintenance** 🚧
+
+**🔧 We are currently working on something exciting!**  
+Please bear with us as we get things ready. We will be back online shortly! 💪
+
+---
+
+**⏳ Thank you for your patience.**
 
 ![Under Maintenance GIF](https://github.com/TechToInsights/TechToInsights/blob/main/360_F_444754442_lbDJCXoY7ovdSQatibGicJC8OlmUOep5.jpg)
 
-_Stay tuned!_
+---
+
+_Stay tuned for something amazing! 🚀_
 
 
 <!---
